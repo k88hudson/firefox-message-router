@@ -1,12 +1,18 @@
 # Firefox Message Router
 
-The Firefox Message Router is a system for dispatching smart, in-product communications that also reflect our core Mozilla values of respecting user attention. Some examples include:
+The Firefox Message Router is a system for dispatching smart, in-product communications in a way that supports our core Mozilla values around user attention and interuptions. Some examples include:
 
-* A recommendation to sync bookmarks to heavy bookmark users
-* A recommendation to install the React devtools addon when users are browsing the React docs
+* A recommendation to use pinned tabs for users that frequently use gmail
+* A recommendation to install the React devtools addon when a user is browsing the React docs
 * An onboarding message about how to use our new tracking protection tools 48 hours after a user has installed the browser
 
-## Why use Firefox Message Router?
+## A model for responsible user engagement
+
+Like we care deeply about protecting users' privacy, we should also protect our users' time, attention, and vulnerability to interuption. Our team uses a model of understanding the impact of different kinds of interuptions – much like the data team classifies telemetry into levels – so that we can handle messages with an appropriate level of care while also maximizing effectiveness.
+
+Part of this strategy is making sure we have the right targeting, timing, and user preferences so that messages can be shown only when they are the most effective and relevant to users who care about them, which is where the **Message Router** comes in.
+
+## Features and benefits
 
 ### Robust UI, targeting, and timing without the engineering effort
 
