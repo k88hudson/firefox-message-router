@@ -8,7 +8,7 @@ The Firefox Message Router is a system for dispatching smart, in-product communi
 
 ## A model for responsible user engagement
 
-Like we care deeply about protecting our users' data and privacy, we should also protect our their time, attention, and vulnerability to interuption. Our team uses a model of understanding the impact of different kinds of interuptions – much like the data team classifies telemetry into levels – so that we can handle messages with an appropriate level of care while also maximizing effectiveness.
+Like we care deeply about protecting our users' data and privacy, we should also protect their time, attention, and vulnerability to interuption. Our team uses a model of understanding the impact of different kinds of interuptions – much like the data team classifies telemetry into levels – so that we can handle messages with an appropriate level of care while also maximizing effectiveness.
 
 Part of this strategy is making sure we have the right targeting, timing, and user preferences so that messages can be shown only when they are the most effective and relevant to users who care about them, which is where the **Message Router** comes in.
 
