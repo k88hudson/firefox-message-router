@@ -1,4 +1,4 @@
-# Firefox Message Router
+# [Draft Proposal] Firefox Message Router
 
 The Firefox Message Router is a system for dispatching smart, in-product communications in a way that supports our core Mozilla values around user attention and interuptions. Some examples include:
 
